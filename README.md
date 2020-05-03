@@ -4,7 +4,7 @@ A front-end design for a vacation app developed in flutter
 
 ## App
 
-![](assets/Screenshots.png)
+![](assets/screenshots.png)
 
 This project is a starting point for a Flutter application.
 
