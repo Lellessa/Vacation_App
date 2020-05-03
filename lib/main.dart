@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Vacation App',
       theme: ThemeData(
-        fontFamily: "Poppins",
+        // fontFamily: "Poppins",
         primarySwatch: Colors.blue,
       ),
       home: HomePage(),

@@ -1,8 +1,10 @@
-# vacation_app
+# Vacation App
 
-A new Flutter project.
+A front-end design for a vacation app developed in flutter
 
-## Getting Started
+## App
+
+![](assets/Screenshot_1.png)
 
 This project is a starting point for a Flutter application.
 
